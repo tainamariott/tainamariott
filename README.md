@@ -1,4 +1,4 @@
-<h1 align="center"> Olá👋, eu sou a Tainá</h1>
+<h1 align="center"> Olá, eu sou a Tainá! 👋 </h1>
 <h2 align="center"> Analista de negócios</h2>
 
 <h3>Iniciei minha jornada no mundo da tecnologia em fevereiro de 2023.<h3>
