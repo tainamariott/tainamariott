@@ -5,7 +5,7 @@
 
 - :mortar_board: Atualmente estou cursando Sistemas de Informação na UNIMATER.
 
-- 💼 Trabalho na empresa IDS Desenvolvimento de Software e Assessoria.
+- 💼 Trabalho na empresa Predize, do grupo DB1.
 
 - 📫 Contato: **mariotttaina@gmail.com**
 
